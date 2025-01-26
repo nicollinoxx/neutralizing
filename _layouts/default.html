@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body class="{% if page.layout != 'home' %}d-flex flex-column vh-100{% endif %}">
+    {% include header.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+  </body>
+</html>
