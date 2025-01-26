@@ -6,7 +6,9 @@
   <body class="{% if page.layout != 'home' %}d-flex flex-column vh-100{% endif %}">
     {% include header.html %}
 
-    {{ content }}
+    <main class="{% if page.layout != 'home' %} mt-5 flex-grow-1 {% endif %}">
+      {{ content }}
+    </main>
 
     {% include footer.html %}
   </body>
