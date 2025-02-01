@@ -1,4 +1,4 @@
-# neutralizing-theme
+# neutralizing
 
 neutralizing is a portfolio theme made with jekyll and bootstrap
 
@@ -7,7 +7,7 @@ neutralizing is a portfolio theme made with jekyll and bootstrap
 <details>
   <summary>📸 Show preview</summary>
 
-![theme-preview](https://github.com/nicollinoxx/neutralizing-theme/blob/master/theme-preview.png?raw=true)
+![theme-preview](https://github.com/nicollinoxx/neutralizing/blob/master/theme-preview.png?raw=true)
 
 </details>
 
@@ -67,21 +67,12 @@ social_link:
   email:     example@gmail.com
 ```
 
-Examples of posts are also in the repository, which contains some extra tags such as: tools, website, thumbnail...
-visit: https://github.com/nicollinoxx/neutralizing-theme/tree/master/_posts to see examples of posts.
+Examples of posts are also in the repository, which contains some extra tags such as: tools, website, thumbnail... \
+visit: https://github.com/nicollinoxx/neutralizing/tree/master/_posts to see examples of posts.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/nicollinoxx/neutralizing-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `neutralizing.gemspec` accordingly.
+Bug reports and pull requests are welcome on GitHub at https://github.com/nicollinoxx/neutralizing. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
 
 ## License
 
