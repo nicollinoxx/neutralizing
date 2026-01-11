@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = ">= 3.0.0"
 
   spec.name          = "neutralizing"
-  spec.version       = "0.2.1"
+  spec.version       = "0.2.2"
   spec.authors       = ["Nicolas"]
   spec.email         = ["nicolasalmeida321@gmail.com"]
 

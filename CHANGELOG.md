@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2 - January 11, 2026 (2.97 MB)
+- Fixed social links logic.
+- Fixed icons display correctly for all social links.
+
 ## 0.2.1 - October 05, 2025 (2.97 MB)
 - Allow excluding social media links on the home page
 
