@@ -67,6 +67,22 @@ social_link:
   email:     example@gmail.com
 ```
 
+If you don’t want a certain social link to appear in your portfolio, simply leave its `social_link` value empty.  
+The theme will only display links that have a non-empty URL.
+
+For example, to show only GitHub and hide all other social links:
+
+```yaml
+social_username:
+  github: "github-username"
+
+social_link:
+  github: "https://github.com"
+  twitter-x: ""
+  linkedin: ""
+  email: ""
+```
+
 Examples of posts are also in the repository, which contains some extra tags such as: tools, website, thumbnail... \
 visit: https://github.com/nicollinoxx/neutralizing/tree/master/_posts to see examples of posts.
 
